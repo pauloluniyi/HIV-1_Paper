@@ -17,3 +17,5 @@ cd [path_to_script]
 
 random_pick_sequence [path_to_your_fasta_sequence] [number_of_sequence_to_pick]
 
+
+[![DOI](https://zenodo.org/badge/394749248.svg)](https://zenodo.org/badge/latestdoi/394749248)
