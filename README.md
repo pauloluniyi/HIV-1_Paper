@@ -1,4 +1,4 @@
-# HIV-1_Paper
+# HIV-1_Paper [![DOI](https://zenodo.org/badge/394749248.svg)](https://zenodo.org/badge/latestdoi/394749248)
 Data Files for HIV-1 Manuscript titled "HIV-1 Drug Resistance and Genetic Diversity in a Cohort of people living with HIV-1 in Nigeria"
 
 This repository contains template consensus sequences (TCSs), individual representative sequences and results of mapping to the HIV-1 reference genome (HXB2).
